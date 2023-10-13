@@ -1,4 +1,4 @@
-//problem 125 || Valid Palindrome;
+//problem 125 || Valid_Palindrome;
 #include <iostream>
 #include <string>
 using namespace std;
