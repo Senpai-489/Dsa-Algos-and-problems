@@ -1,4 +1,4 @@
-// Problem 14 || Longest Common Prefix
+// Problem 14 ||   Longest Common Prefix
 #include <iostream> 
 #include <vector>
 using namespace std;
